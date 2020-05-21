@@ -7,3 +7,6 @@ print("Thank You!")
 print("This is my New Branch called First-Feature-Branch")
 
 print("Merge this branch in master branch")
+
+print("Commiting changes in Master Brnach")
+
